@@ -20,7 +20,7 @@ except ImportError:
 
 # Fixed Package meta-data.
 NAME = 'sepca'
-DESCRIPTION = 'Sparql End Po'
+DESCRIPTION = 'Sparql End Point Compliance Assessment - Ad hoc set of checks for deployed sparql services'
 URL = 'https://github.com/vliz-be-opsci/sepca'
 EMAIL = 'marc.portier@gmail.com'
 AUTHOR = 'Marc Portier'
